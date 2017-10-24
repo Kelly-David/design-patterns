@@ -1,0 +1,10 @@
+/Users/david/Documents/4th Year/Software Engineering/StrategyPattern/bin/Debug/netcoreapp2.0/StrategyPattern.deps.json
+/Users/david/Documents/4th Year/Software Engineering/StrategyPattern/bin/Debug/netcoreapp2.0/StrategyPattern.runtimeconfig.json
+/Users/david/Documents/4th Year/Software Engineering/StrategyPattern/bin/Debug/netcoreapp2.0/StrategyPattern.runtimeconfig.dev.json
+/Users/david/Documents/4th Year/Software Engineering/StrategyPattern/bin/Debug/netcoreapp2.0/StrategyPattern.dll
+/Users/david/Documents/4th Year/Software Engineering/StrategyPattern/bin/Debug/netcoreapp2.0/StrategyPattern.pdb
+/Users/david/Documents/4th Year/Software Engineering/StrategyPattern/obj/Debug/netcoreapp2.0/StrategyPattern.csproj.CoreCompileInputs.cache
+/Users/david/Documents/4th Year/Software Engineering/StrategyPattern/obj/Debug/netcoreapp2.0/StrategyPattern.AssemblyInfoInputs.cache
+/Users/david/Documents/4th Year/Software Engineering/StrategyPattern/obj/Debug/netcoreapp2.0/StrategyPattern.AssemblyInfo.cs
+/Users/david/Documents/4th Year/Software Engineering/StrategyPattern/obj/Debug/netcoreapp2.0/StrategyPattern.dll
+/Users/david/Documents/4th Year/Software Engineering/StrategyPattern/obj/Debug/netcoreapp2.0/StrategyPattern.pdb

@@ -8,7 +8,7 @@ namespace DecoratorPattern
         {
             return beverage.GetDescription() + ", Tall";
         }
-        public override double Cost() { return .10 + beverage.Cost(); }
+        public override double Cost() { return 0 + beverage.Cost(); }
     }
 
 }

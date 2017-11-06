@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/david/Documents/4th Year/Software Engineering/StrategyPattern/StrategyPattern.csproj",
+      "projectUniqueName": "/Users/david/Documents/4th Year/Software Engineering/Design Patterns/StrategyPattern/StrategyPattern.csproj",
       "projectName": "StrategyPattern",
-      "projectPath": "/Users/david/Documents/4th Year/Software Engineering/StrategyPattern/StrategyPattern.csproj",
+      "projectPath": "/Users/david/Documents/4th Year/Software Engineering/Design Patterns/StrategyPattern/StrategyPattern.csproj",
       "packagesPath": "/Users/david/.nuget/packages/",
-      "outputPath": "/Users/david/Documents/4th Year/Software Engineering/StrategyPattern/obj/",
+      "outputPath": "/Users/david/Documents/4th Year/Software Engineering/Design Patterns/StrategyPattern/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

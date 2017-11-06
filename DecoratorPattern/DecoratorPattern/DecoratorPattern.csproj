@@ -39,6 +39,7 @@
     <Compile Include="CondimentDecorator.cs" />
     <Compile Include="Soy.cs" />
     <Compile Include="Mocha.cs" />
+    <Compile Include="Whip.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

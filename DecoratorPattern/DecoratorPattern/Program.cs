@@ -9,7 +9,9 @@ namespace DecoratorPattern
             Beverage beverage = new DarkRoast();
             beverage = new Mocha(beverage);
             beverage = new Soy(beverage);
-            Console.Write(beverage.GetDescription() + " $" + beverage.Cost());
+            beverage = new Whip(beverage);
+            Console.WriteLine(beverage.GetDescription());
+            Console.WriteLine("Total: $" + beverage.Cost());
             Console.ReadKey();
         }
     }

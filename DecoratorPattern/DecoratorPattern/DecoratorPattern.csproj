@@ -40,6 +40,9 @@
     <Compile Include="Soy.cs" />
     <Compile Include="Mocha.cs" />
     <Compile Include="Whip.cs" />
+    <Compile Include="Tall.cs" />
+    <Compile Include="Grande.cs" />
+    <Compile Include="Venti.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

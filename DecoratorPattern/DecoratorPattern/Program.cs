@@ -2,11 +2,15 @@
 
 namespace DecoratorPattern
 {
-    class MainClass
+    class MainCoffee
     {
-        public static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Beverage beverage = new DarkRoast();
+            beverage = new Mocha(beverage);
+            beverage = new Soy(beverage);
+            Console.Write(beverage.GetDescription() + " $" + beverage.Cost());
+            Console.ReadKey();
         }
     }
 }
